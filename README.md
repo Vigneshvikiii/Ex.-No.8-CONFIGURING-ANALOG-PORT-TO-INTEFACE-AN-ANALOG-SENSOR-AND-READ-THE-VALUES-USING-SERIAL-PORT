@@ -1,9 +1,10 @@
-**** 
 
 
-### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
-## Date: 
-###  
+
+### Ex. No. :6 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
+
+###  Devloped By : Vignesh S
+### Register Number : 212223230240
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
